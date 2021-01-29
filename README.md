@@ -30,6 +30,8 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+![SimpleToDo_Demo](https://user-images.githubusercontent.com/65844160/106333945-8bed2100-623e-11eb-8747-2a5efba9a50e.gif)
+
 ## Notes
 
 I found it very interesting building this app and I can't wait to join the class for deeper dig into this field. 
